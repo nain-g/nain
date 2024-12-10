@@ -30,5 +30,6 @@ public class p {
         int[] ar={3,1,4,2};
         int r=minSubarray(ar,6);
         System.out.print(r);
+        System.out.print("hello");
      }
 }
